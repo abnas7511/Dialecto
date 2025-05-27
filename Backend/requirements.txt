@@ -1,0 +1,14 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+python-multipart
+sqlalchemy
+psycopg2-binary
+ffmpeg-python
+torch
+transformers
+googletrans==4.0.0-rc1
+gtts
+python-dotenv
+aiofiles
+soundfile==0.12.1
+librosa==0.10.1
